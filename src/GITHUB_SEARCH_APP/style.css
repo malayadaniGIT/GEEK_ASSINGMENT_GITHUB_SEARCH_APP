@@ -1,0 +1,92 @@
+*{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+}
+      .container2{
+      width: 90%;
+      margin: auto;
+
+}
+      #heading{
+      text-align: center;
+      background-color: rgb(24, 121, 6);
+      color: white;
+      height: 8vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+}
+      .searchdiv{
+      display: flex;
+      padding: 5px;
+      gap: 30px;
+
+}
+
+      #searchbox{
+      width: 50%;
+      height: 40px;
+      border-radius: 10px;
+      font-size: large;
+      border: 1px solid blue;
+      padding: 0px 0 0 8px;
+}
+      .btn1{
+      border-radius: 5px;
+      width:15%;
+      height: 40px;
+      color: black;
+      font-size: x-large;
+      background-color: blue;
+      border: none;
+      /* cursor: pointer; */
+}
+      .main{
+      display: flex;
+
+}
+      .main1 a{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      cursor: pointer;
+      text-decoration: none;
+}
+      .main2{
+      padding: 10px;
+      display: flex;
+      font-size: larger;
+      flex-direction: column;
+      margin-top: 20px;
+
+}
+      .avatar{
+      border: 1px solid grey;
+      height: 250px;
+      width: 250px;
+      border-radius: 50%;
+}
+      .datas{
+      margin-top: 10px;
+      /* border: 2px solid red; */
+      height: 10vh;
+      width: 100%;
+      display: flex;
+      justify-content: space-around;
+}
+      .datas h4{
+      cursor: pointer;
+      width: 15%;
+      text-align: center;
+      height: fit-content;
+      padding: 5px;
+      border-radius: 10px;
+      background-color: #d3cdcd;
+}
+
+.datas h4:hover{
+      border:2px solid blue;
+      /* width: fit-content; */
+}
