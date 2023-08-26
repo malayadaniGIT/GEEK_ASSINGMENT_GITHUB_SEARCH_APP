@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GEEK_ASSINGMENT_GITHUB_SEARCH_APP/static/css/main.db043326.css",
+    "main.js": "/GEEK_ASSINGMENT_GITHUB_SEARCH_APP/static/js/main.cb24261e.js",
+    "static/js/787.7c0f9d89.chunk.js": "/GEEK_ASSINGMENT_GITHUB_SEARCH_APP/static/js/787.7c0f9d89.chunk.js",
+    "index.html": "/GEEK_ASSINGMENT_GITHUB_SEARCH_APP/index.html",
+    "main.db043326.css.map": "/GEEK_ASSINGMENT_GITHUB_SEARCH_APP/static/css/main.db043326.css.map",
+    "main.cb24261e.js.map": "/GEEK_ASSINGMENT_GITHUB_SEARCH_APP/static/js/main.cb24261e.js.map",
+    "787.7c0f9d89.chunk.js.map": "/GEEK_ASSINGMENT_GITHUB_SEARCH_APP/static/js/787.7c0f9d89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db043326.css",
+    "static/js/main.cb24261e.js"
+  ]
+}
